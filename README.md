@@ -1,5 +1,5 @@
 # Library-Management-System-Python
-This is a simple command-line-based Library Management System implemented in Python.  
+This is a simple but affective command-line-based Library Management System implemented in Python.  
 
 ## Features: 
 - Add, update, and delete books 
